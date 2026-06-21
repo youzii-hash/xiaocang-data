@@ -17,7 +17,7 @@
       ],
       "id": 42688,
       "name": "百罗鬼帝专属全能刻印",
-      "desc": "攻击4/49,防御3/30,特防3/30,速度4/41,体力8/85",
+      "desc": "防御3/30,特防3/30,速度4/41,体力8/85",
       "effect": null,
       "mintmark_class": null,
       "base_attr_value": {
@@ -41,8 +41,10 @@
         "total": 235
       },
       "extra_attr_value": null,
-      "skill": null
+      "skill": null,
+      "connect": null,
+      "is_hidden": false
     }
   },
-  "hash": "270ebcff"
+  "hash": "6df5cb33"
 }

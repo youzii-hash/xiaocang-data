@@ -5,6 +5,7 @@
       "name": "暗金爆裂•杰西卡",
       "resource_id": 1400256,
       "enemy_resource_id": null,
+      "card_price": 10,
       "pet": {
         "id": 3713,
         "url": "https://api.seerapi.com/v1/pet/3713"
@@ -12,8 +13,10 @@
       "category": {
         "id": 2,
         "url": "https://api.seerapi.com/v1/pet_skin_category/2"
-      }
+      },
+      "series": null,
+      "sub_type": null
     }
   },
-  "hash": "64a8ac4e"
+  "hash": "21ce535a"
 }

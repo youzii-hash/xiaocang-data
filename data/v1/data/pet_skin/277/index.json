@@ -3,6 +3,7 @@
   "name": "风色妖精·神奕",
   "resource_id": 1400277,
   "enemy_resource_id": null,
+  "card_price": null,
   "pet": {
     "id": 3757,
     "url": "https://api.seerapi.com/v1/pet/3757"
@@ -11,5 +12,13 @@
     "id": 3,
     "url": "https://api.seerapi.com/v1/pet_skin_category/3"
   },
-  "hash": "1f5196ce"
+  "series": {
+    "id": 1,
+    "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+  },
+  "sub_type": {
+    "id": 1003,
+    "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1003"
+  },
+  "hash": "d6aee86f"
 }

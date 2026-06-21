@@ -1,9 +1,9 @@
 {
   "id": 881,
   "args_num": 0,
-  "info": "若自身处于能力下降状态则先制+3",
+  "info": "若自身处于能力下降状态则技能先制+3",
   "info_formatting_adjustment": null,
-  "analyze_info": "[sprite name=iconInherent]若自身处于能力下降状态则[color=#52a5f2]先制[/color]+3（boss有效）",
+  "analyze_info": "[sprite name=iconInherent]若自身处于能力下降状态则[color=#52a5f2]技能先制[/color]+3（boss有效）",
   "pve_effective": true,
   "param": null,
   "skill": [
@@ -330,6 +330,22 @@
     {
       "id": 38383,
       "url": "https://api.seerapi.com/v1/skill/38383"
+    },
+    {
+      "id": 38393,
+      "url": "https://api.seerapi.com/v1/skill/38393"
+    },
+    {
+      "id": 38409,
+      "url": "https://api.seerapi.com/v1/skill/38409"
+    },
+    {
+      "id": 38422,
+      "url": "https://api.seerapi.com/v1/skill/38422"
+    },
+    {
+      "id": 38425,
+      "url": "https://api.seerapi.com/v1/skill/38425"
     }
   ],
   "tag": [
@@ -338,5 +354,5 @@
       "url": "https://api.seerapi.com/v1/skill_effect_type_tag/2566"
     }
   ],
-  "hash": "ebe779f"
+  "hash": "cd7b95c2"
 }

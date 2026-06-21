@@ -5,6 +5,7 @@
       "name": "惰落女巫·森娅",
       "resource_id": 1400397,
       "enemy_resource_id": null,
+      "card_price": null,
       "pet": {
         "id": 4247,
         "url": "https://api.seerapi.com/v1/pet/4247"
@@ -12,8 +13,16 @@
       "category": {
         "id": 3,
         "url": "https://api.seerapi.com/v1/pet_skin_category/3"
+      },
+      "series": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+      },
+      "sub_type": {
+        "id": 1006,
+        "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1006"
       }
     }
   },
-  "hash": "31eb2bd6"
+  "hash": "90ee26f4"
 }

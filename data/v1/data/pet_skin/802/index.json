@@ -3,6 +3,7 @@
   "name": "彩凤玄袍·大轮明王",
   "resource_id": 1400802,
   "enemy_resource_id": null,
+  "card_price": null,
   "pet": {
     "id": 3576,
     "url": "https://api.seerapi.com/v1/pet/3576"
@@ -11,5 +12,10 @@
     "id": 7,
     "url": "https://api.seerapi.com/v1/pet_skin_category/7"
   },
-  "hash": "618fd806"
+  "series": {
+    "id": 17,
+    "url": "https://api.seerapi.com/v1/pet_skin_series/17"
+  },
+  "sub_type": null,
+  "hash": "c68dbbf1"
 }

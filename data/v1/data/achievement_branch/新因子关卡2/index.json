@@ -3,7 +3,7 @@
     "172": {
       "id": 172,
       "name": "新因子关卡2",
-      "point_total": 100,
+      "point_total": 140,
       "is_series": false,
       "achievement": [
         {
@@ -45,6 +45,22 @@
         {
           "id": 3172010,
           "url": "https://api.seerapi.com/v1/achievement/3172010"
+        },
+        {
+          "id": 3172011,
+          "url": "https://api.seerapi.com/v1/achievement/3172011"
+        },
+        {
+          "id": 3172012,
+          "url": "https://api.seerapi.com/v1/achievement/3172012"
+        },
+        {
+          "id": 3172013,
+          "url": "https://api.seerapi.com/v1/achievement/3172013"
+        },
+        {
+          "id": 3172014,
+          "url": "https://api.seerapi.com/v1/achievement/3172014"
         }
       ],
       "type": {
@@ -53,5 +69,5 @@
       }
     }
   },
-  "hash": "d0cc1441"
+  "hash": "eb61c1ce"
 }

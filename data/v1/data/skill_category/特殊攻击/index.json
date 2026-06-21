@@ -33553,6 +33553,94 @@
           "url": "https://api.seerapi.com/v1/skill/38381"
         },
         {
+          "id": 38391,
+          "url": "https://api.seerapi.com/v1/skill/38391"
+        },
+        {
+          "id": 38392,
+          "url": "https://api.seerapi.com/v1/skill/38392"
+        },
+        {
+          "id": 38393,
+          "url": "https://api.seerapi.com/v1/skill/38393"
+        },
+        {
+          "id": 38397,
+          "url": "https://api.seerapi.com/v1/skill/38397"
+        },
+        {
+          "id": 38398,
+          "url": "https://api.seerapi.com/v1/skill/38398"
+        },
+        {
+          "id": 38399,
+          "url": "https://api.seerapi.com/v1/skill/38399"
+        },
+        {
+          "id": 38400,
+          "url": "https://api.seerapi.com/v1/skill/38400"
+        },
+        {
+          "id": 38401,
+          "url": "https://api.seerapi.com/v1/skill/38401"
+        },
+        {
+          "id": 38402,
+          "url": "https://api.seerapi.com/v1/skill/38402"
+        },
+        {
+          "id": 38403,
+          "url": "https://api.seerapi.com/v1/skill/38403"
+        },
+        {
+          "id": 38410,
+          "url": "https://api.seerapi.com/v1/skill/38410"
+        },
+        {
+          "id": 38411,
+          "url": "https://api.seerapi.com/v1/skill/38411"
+        },
+        {
+          "id": 38413,
+          "url": "https://api.seerapi.com/v1/skill/38413"
+        },
+        {
+          "id": 38420,
+          "url": "https://api.seerapi.com/v1/skill/38420"
+        },
+        {
+          "id": 38421,
+          "url": "https://api.seerapi.com/v1/skill/38421"
+        },
+        {
+          "id": 38422,
+          "url": "https://api.seerapi.com/v1/skill/38422"
+        },
+        {
+          "id": 38423,
+          "url": "https://api.seerapi.com/v1/skill/38423"
+        },
+        {
+          "id": 38427,
+          "url": "https://api.seerapi.com/v1/skill/38427"
+        },
+        {
+          "id": 38428,
+          "url": "https://api.seerapi.com/v1/skill/38428"
+        },
+        {
+          "id": 38431,
+          "url": "https://api.seerapi.com/v1/skill/38431"
+        },
+        {
+          "id": 38432,
+          "url": "https://api.seerapi.com/v1/skill/38432"
+        },
+        {
+          "id": 38433,
+          "url": "https://api.seerapi.com/v1/skill/38433"
+        },
+        {
           "id": 40007,
           "url": "https://api.seerapi.com/v1/skill/40007"
         },
@@ -33583,5 +33671,5 @@
       ]
     }
   },
-  "hash": "ed563a53"
+  "hash": "308a649"
 }

@@ -22,12 +22,24 @@
           "title": "title Path",
           "type": "string"
         },
+        "activity": {
+          "title": "activity Path",
+          "type": "string"
+        },
+        "activity_type": {
+          "title": "activity_type Path",
+          "type": "string"
+        },
         "battle_effect": {
           "title": "battle_effect Path",
           "type": "string"
         },
         "battle_effect_type": {
           "title": "battle_effect_type Path",
+          "type": "string"
+        },
+        "resistance_category": {
+          "title": "resistance_category Path",
           "type": "string"
         },
         "avatar_head": {
@@ -222,6 +234,14 @@
           "title": "pet_skin_category Path",
           "type": "string"
         },
+        "pet_skin_series": {
+          "title": "pet_skin_series Path",
+          "type": "string"
+        },
+        "pet_skin_series_sub_type": {
+          "title": "pet_skin_series_sub_type Path",
+          "type": "string"
+        },
         "pet_encyclopedia_entry": {
           "title": "pet_encyclopedia_entry Path",
           "type": "string"
@@ -261,8 +281,11 @@
         "achievement_type",
         "achievement_category",
         "title",
+        "activity",
+        "activity_type",
         "battle_effect",
         "battle_effect_type",
+        "resistance_category",
         "avatar_head",
         "avatar_frame",
         "namecard_background",
@@ -311,6 +334,8 @@
         "pet_advance",
         "pet_skin",
         "pet_skin_category",
+        "pet_skin_series",
+        "pet_skin_series_sub_type",
         "pet_encyclopedia_entry",
         "pet_archive_story_book",
         "skill",

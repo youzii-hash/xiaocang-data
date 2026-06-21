@@ -5,6 +5,7 @@
       "name": "萌伊优",
       "resource_id": 1400093,
       "enemy_resource_id": null,
+      "card_price": 10,
       "pet": {
         "id": 2947,
         "url": "https://api.seerapi.com/v1/pet/2947"
@@ -12,8 +13,10 @@
       "category": {
         "id": 0,
         "url": "https://api.seerapi.com/v1/pet_skin_category/0"
-      }
+      },
+      "series": null,
+      "sub_type": null
     }
   },
-  "hash": "ae69704e"
+  "hash": "4cd24caf"
 }

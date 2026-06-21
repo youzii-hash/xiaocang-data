@@ -42,6 +42,14 @@
     {
       "id": 38314,
       "url": "https://api.seerapi.com/v1/skill/38314"
+    },
+    {
+      "id": 38424,
+      "url": "https://api.seerapi.com/v1/skill/38424"
+    },
+    {
+      "id": 38431,
+      "url": "https://api.seerapi.com/v1/skill/38431"
     }
   ],
   "tag": [
@@ -58,5 +66,5 @@
       "url": "https://api.seerapi.com/v1/skill_effect_type_tag/60828"
     }
   ],
-  "hash": "cbde36d0"
+  "hash": "447d6089"
 }

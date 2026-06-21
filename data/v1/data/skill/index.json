@@ -1,5 +1,5 @@
 {
-  "count": 27001,
+  "count": 27083,
   "next": null,
   "previous": null,
   "first": null,
@@ -93151,6 +93151,171 @@
       "name": "血海行傀"
     },
     {
+      "id": 29347,
+      "url": "https://api.seerapi.com/v1/skill/29347",
+      "name": "风沙潜伏"
+    },
+    {
+      "id": 29348,
+      "url": "https://api.seerapi.com/v1/skill/29348",
+      "name": "激素分泌"
+    },
+    {
+      "id": 29349,
+      "url": "https://api.seerapi.com/v1/skill/29349",
+      "name": "蓄势回击"
+    },
+    {
+      "id": 29350,
+      "url": "https://api.seerapi.com/v1/skill/29350",
+      "name": "往昔荣光"
+    },
+    {
+      "id": 29351,
+      "url": "https://api.seerapi.com/v1/skill/29351",
+      "name": "艳罗剑典"
+    },
+    {
+      "id": 29352,
+      "url": "https://api.seerapi.com/v1/skill/29352",
+      "name": "喰锋引录"
+    },
+    {
+      "id": 29353,
+      "url": "https://api.seerapi.com/v1/skill/29353",
+      "name": "方位播报"
+    },
+    {
+      "id": 29354,
+      "url": "https://api.seerapi.com/v1/skill/29354",
+      "name": "定向宣传"
+    },
+    {
+      "id": 29355,
+      "url": "https://api.seerapi.com/v1/skill/29355",
+      "name": "霜花环身"
+    },
+    {
+      "id": 29356,
+      "url": "https://api.seerapi.com/v1/skill/29356",
+      "name": "旧日祝福"
+    },
+    {
+      "id": 29357,
+      "url": "https://api.seerapi.com/v1/skill/29357",
+      "name": "铭记片像"
+    },
+    {
+      "id": 29358,
+      "url": "https://api.seerapi.com/v1/skill/29358",
+      "name": "稽古溯源"
+    },
+    {
+      "id": 29359,
+      "url": "https://api.seerapi.com/v1/skill/29359",
+      "name": "异画折叠"
+    },
+    {
+      "id": 29360,
+      "url": "https://api.seerapi.com/v1/skill/29360",
+      "name": "简色童心"
+    },
+    {
+      "id": 29361,
+      "url": "https://api.seerapi.com/v1/skill/29361",
+      "name": "雷之脉动"
+    },
+    {
+      "id": 29362,
+      "url": "https://api.seerapi.com/v1/skill/29362",
+      "name": "叛逆简论"
+    },
+    {
+      "id": 29363,
+      "url": "https://api.seerapi.com/v1/skill/29363",
+      "name": "狂热思潮"
+    },
+    {
+      "id": 29364,
+      "url": "https://api.seerapi.com/v1/skill/29364",
+      "name": "反·塑己焚心"
+    },
+    {
+      "id": 29365,
+      "url": "https://api.seerapi.com/v1/skill/29365",
+      "name": "制式兵装"
+    },
+    {
+      "id": 29366,
+      "url": "https://api.seerapi.com/v1/skill/29366",
+      "name": "兵火重奏"
+    },
+    {
+      "id": 29367,
+      "url": "https://api.seerapi.com/v1/skill/29367",
+      "name": "不稳定存在"
+    },
+    {
+      "id": 29368,
+      "url": "https://api.seerapi.com/v1/skill/29368",
+      "name": "意识自我"
+    },
+    {
+      "id": 29369,
+      "url": "https://api.seerapi.com/v1/skill/29369",
+      "name": "霜结骑士"
+    },
+    {
+      "id": 29370,
+      "url": "https://api.seerapi.com/v1/skill/29370",
+      "name": "苍色冰原"
+    },
+    {
+      "id": 29371,
+      "url": "https://api.seerapi.com/v1/skill/29371",
+      "name": "白皑之纷争"
+    },
+    {
+      "id": 29372,
+      "url": "https://api.seerapi.com/v1/skill/29372",
+      "name": "天不育魔"
+    },
+    {
+      "id": 29373,
+      "url": "https://api.seerapi.com/v1/skill/29373",
+      "name": "夏不语冰"
+    },
+    {
+      "id": 29374,
+      "url": "https://api.seerapi.com/v1/skill/29374",
+      "name": "明日之抒"
+    },
+    {
+      "id": 29375,
+      "url": "https://api.seerapi.com/v1/skill/29375",
+      "name": "幽游白帐"
+    },
+    {
+      "id": 29376,
+      "url": "https://api.seerapi.com/v1/skill/29376",
+      "name": "框地为牢"
+    },
+    {
+      "id": 29377,
+      "url": "https://api.seerapi.com/v1/skill/29377",
+      "name": "坐框观天"
+    },
+    {
+      "id": 29378,
+      "url": "https://api.seerapi.com/v1/skill/29378",
+      "name": "高维干涉"
+    },
+    {
+      "id": 29379,
+      "url": "https://api.seerapi.com/v1/skill/29379",
+      "name": "不竭灵感"
+    },
+    {
       "id": 30001,
       "url": "https://api.seerapi.com/v1/skill/30001",
       "name": "千星死魂灭"
@@ -134941,6 +135106,251 @@
       "name": "蔑天行·戾杀"
     },
     {
+      "id": 38385,
+      "url": "https://api.seerapi.com/v1/skill/38385",
+      "name": "死亡预告"
+    },
+    {
+      "id": 38386,
+      "url": "https://api.seerapi.com/v1/skill/38386",
+      "name": "刺杀觉悟"
+    },
+    {
+      "id": 38387,
+      "url": "https://api.seerapi.com/v1/skill/38387",
+      "name": "枪火革命"
+    },
+    {
+      "id": 38388,
+      "url": "https://api.seerapi.com/v1/skill/38388",
+      "name": "截断"
+    },
+    {
+      "id": 38389,
+      "url": "https://api.seerapi.com/v1/skill/38389",
+      "name": "坠日贯杀"
+    },
+    {
+      "id": 38390,
+      "url": "https://api.seerapi.com/v1/skill/38390",
+      "name": "自·万物定理"
+    },
+    {
+      "id": 38391,
+      "url": "https://api.seerapi.com/v1/skill/38391",
+      "name": "敕赦千铭"
+    },
+    {
+      "id": 38392,
+      "url": "https://api.seerapi.com/v1/skill/38392",
+      "name": "锋毫浸血雨"
+    },
+    {
+      "id": 38393,
+      "url": "https://api.seerapi.com/v1/skill/38393",
+      "name": "万苍书帝录"
+    },
+    {
+      "id": 38394,
+      "url": "https://api.seerapi.com/v1/skill/38394",
+      "name": "扩音"
+    },
+    {
+      "id": 38395,
+      "url": "https://api.seerapi.com/v1/skill/38395",
+      "name": "信息共振"
+    },
+    {
+      "id": 38396,
+      "url": "https://api.seerapi.com/v1/skill/38396",
+      "name": "迷途指反"
+    },
+    {
+      "id": 38397,
+      "url": "https://api.seerapi.com/v1/skill/38397",
+      "name": "流转"
+    },
+    {
+      "id": 38398,
+      "url": "https://api.seerapi.com/v1/skill/38398",
+      "name": "玄冰崩陨"
+    },
+    {
+      "id": 38399,
+      "url": "https://api.seerapi.com/v1/skill/38399",
+      "name": "希·魔盒启封"
+    },
+    {
+      "id": 38400,
+      "url": "https://api.seerapi.com/v1/skill/38400",
+      "name": "撰写"
+    },
+    {
+      "id": 38401,
+      "url": "https://api.seerapi.com/v1/skill/38401",
+      "name": "向壁虚造"
+    },
+    {
+      "id": 38402,
+      "url": "https://api.seerapi.com/v1/skill/38402",
+      "name": "虚美隐恶"
+    },
+    {
+      "id": 38403,
+      "url": "https://api.seerapi.com/v1/skill/38403",
+      "name": "铭撰青史"
+    },
+    {
+      "id": 38404,
+      "url": "https://api.seerapi.com/v1/skill/38404",
+      "name": "胡涂"
+    },
+    {
+      "id": 38405,
+      "url": "https://api.seerapi.com/v1/skill/38405",
+      "name": "六色七彩"
+    },
+    {
+      "id": 38406,
+      "url": "https://api.seerapi.com/v1/skill/38406",
+      "name": "一心永驻"
+    },
+    {
+      "id": 38407,
+      "url": "https://api.seerapi.com/v1/skill/38407",
+      "name": "云烨竭天"
+    },
+    {
+      "id": 38408,
+      "url": "https://api.seerapi.com/v1/skill/38408",
+      "name": "王·祭炼昭灼"
+    },
+    {
+      "id": 38409,
+      "url": "https://api.seerapi.com/v1/skill/38409",
+      "name": "王·焚罡九虺"
+    },
+    {
+      "id": 38410,
+      "url": "https://api.seerapi.com/v1/skill/38410",
+      "name": "烈谱"
+    },
+    {
+      "id": 38411,
+      "url": "https://api.seerapi.com/v1/skill/38411",
+      "name": "意聚魂燃"
+    },
+    {
+      "id": 38412,
+      "url": "https://api.seerapi.com/v1/skill/38412",
+      "name": "迅灭光雨"
+    },
+    {
+      "id": 38413,
+      "url": "https://api.seerapi.com/v1/skill/38413",
+      "name": "熔甲轰击"
+    },
+    {
+      "id": 38414,
+      "url": "https://api.seerapi.com/v1/skill/38414",
+      "name": "全火力覆盖"
+    },
+    {
+      "id": 38415,
+      "url": "https://api.seerapi.com/v1/skill/38415",
+      "name": "波纹涣散"
+    },
+    {
+      "id": 38416,
+      "url": "https://api.seerapi.com/v1/skill/38416",
+      "name": "执心自反"
+    },
+    {
+      "id": 38417,
+      "url": "https://api.seerapi.com/v1/skill/38417",
+      "name": "冰语"
+    },
+    {
+      "id": 38418,
+      "url": "https://api.seerapi.com/v1/skill/38418",
+      "name": "歼世灭尽的隆冬"
+    },
+    {
+      "id": 38419,
+      "url": "https://api.seerapi.com/v1/skill/38419",
+      "name": "偕行世界的尽头"
+    },
+    {
+      "id": 38420,
+      "url": "https://api.seerapi.com/v1/skill/38420",
+      "name": "沙海之萌芽"
+    },
+    {
+      "id": 38421,
+      "url": "https://api.seerapi.com/v1/skill/38421",
+      "name": "乐园之初诞"
+    },
+    {
+      "id": 38422,
+      "url": "https://api.seerapi.com/v1/skill/38422",
+      "name": "自由之荣光"
+    },
+    {
+      "id": 38423,
+      "url": "https://api.seerapi.com/v1/skill/38423",
+      "name": "向未来的祈愿"
+    },
+    {
+      "id": 38424,
+      "url": "https://api.seerapi.com/v1/skill/38424",
+      "name": "赴火"
+    },
+    {
+      "id": 38425,
+      "url": "https://api.seerapi.com/v1/skill/38425",
+      "name": "褪喧哗的赤海"
+    },
+    {
+      "id": 38426,
+      "url": "https://api.seerapi.com/v1/skill/38426",
+      "name": "告天堂的残灰"
+    },
+    {
+      "id": 38427,
+      "url": "https://api.seerapi.com/v1/skill/38427",
+      "name": "半梦"
+    },
+    {
+      "id": 38428,
+      "url": "https://api.seerapi.com/v1/skill/38428",
+      "name": "半醒"
+    },
+    {
+      "id": 38429,
+      "url": "https://api.seerapi.com/v1/skill/38429",
+      "name": "框当"
+    },
+    {
+      "id": 38430,
+      "url": "https://api.seerapi.com/v1/skill/38430",
+      "name": "纷繁忘我"
+    },
+    {
+      "id": 38431,
+      "url": "https://api.seerapi.com/v1/skill/38431",
+      "name": "构造"
+    },
+    {
+      "id": 38432,
+      "url": "https://api.seerapi.com/v1/skill/38432",
+      "name": "变量清除"
+    },
+    {
+      "id": 38433,
+      "url": "https://api.seerapi.com/v1/skill/38433",
+      "name": "创·黄金纪元"
+    },
+    {
       "id": 40001,
       "url": "https://api.seerapi.com/v1/skill/40001",
       "name": "浓尘翻涌"
@@ -135011,5 +135421,5 @@
       "name": "暗龙咆哮"
     }
   ],
-  "hash": "c4b860c2"
+  "hash": "a0f30b3f"
 }

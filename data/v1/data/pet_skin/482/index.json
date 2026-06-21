@@ -3,6 +3,7 @@
   "name": "殉葬之花·沐怜",
   "resource_id": 1400482,
   "enemy_resource_id": null,
+  "card_price": null,
   "pet": {
     "id": 4397,
     "url": "https://api.seerapi.com/v1/pet/4397"
@@ -11,5 +12,13 @@
     "id": 3,
     "url": "https://api.seerapi.com/v1/pet_skin_category/3"
   },
-  "hash": "4bfb7e81"
+  "series": {
+    "id": 1,
+    "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+  },
+  "sub_type": {
+    "id": 1007,
+    "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1007"
+  },
+  "hash": "90baeff4"
 }

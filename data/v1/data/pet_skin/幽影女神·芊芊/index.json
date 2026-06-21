@@ -5,6 +5,7 @@
       "name": "幽影女神·芊芊",
       "resource_id": 1400198,
       "enemy_resource_id": null,
+      "card_price": null,
       "pet": {
         "id": 3341,
         "url": "https://api.seerapi.com/v1/pet/3341"
@@ -12,8 +13,16 @@
       "category": {
         "id": 3,
         "url": "https://api.seerapi.com/v1/pet_skin_category/3"
+      },
+      "series": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+      },
+      "sub_type": {
+        "id": 1002,
+        "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1002"
       }
     }
   },
-  "hash": "2915a4ff"
+  "hash": "d63a9ea0"
 }

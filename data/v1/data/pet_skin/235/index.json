@@ -3,6 +3,7 @@
   "name": "绯色月下·青丘",
   "resource_id": 1400235,
   "enemy_resource_id": null,
+  "card_price": null,
   "pet": {
     "id": 3614,
     "url": "https://api.seerapi.com/v1/pet/3614"
@@ -11,5 +12,13 @@
     "id": 3,
     "url": "https://api.seerapi.com/v1/pet_skin_category/3"
   },
-  "hash": "6090d1f9"
+  "series": {
+    "id": 1,
+    "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+  },
+  "sub_type": {
+    "id": 1003,
+    "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1003"
+  },
+  "hash": "95f94ae8"
 }

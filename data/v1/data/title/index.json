@@ -1,5 +1,5 @@
 {
-  "count": 571,
+  "count": 582,
   "next": null,
   "previous": null,
   "first": null,
@@ -304,6 +304,11 @@
       "id": 585,
       "url": "https://api.seerapi.com/v1/title/585",
       "name": "自由之潮"
+    },
+    {
+      "id": 596,
+      "url": "https://api.seerapi.com/v1/title/596",
+      "name": "往日之殇"
     },
     {
       "id": 47,
@@ -1214,6 +1219,26 @@
       "id": 584,
       "url": "https://api.seerapi.com/v1/title/584",
       "name": "信仰之化身"
+    },
+    {
+      "id": 587,
+      "url": "https://api.seerapi.com/v1/title/587",
+      "name": "自由之化身"
+    },
+    {
+      "id": 590,
+      "url": "https://api.seerapi.com/v1/title/590",
+      "name": "希望之化身"
+    },
+    {
+      "id": 595,
+      "url": "https://api.seerapi.com/v1/title/595",
+      "name": "反抗之化身"
+    },
+    {
+      "id": 597,
+      "url": "https://api.seerapi.com/v1/title/597",
+      "name": "创造之化身"
     },
     {
       "id": 536,
@@ -2859,7 +2884,37 @@
       "id": 586,
       "url": "https://api.seerapi.com/v1/title/586",
       "name": "活干完了"
+    },
+    {
+      "id": 588,
+      "url": "https://api.seerapi.com/v1/title/588",
+      "name": "昨日重现"
+    },
+    {
+      "id": 589,
+      "url": "https://api.seerapi.com/v1/title/589",
+      "name": "奇妙博物馆"
+    },
+    {
+      "id": 591,
+      "url": "https://api.seerapi.com/v1/title/591",
+      "name": "星光铸就者"
+    },
+    {
+      "id": 592,
+      "url": "https://api.seerapi.com/v1/title/592",
+      "name": "闪耀的此刻"
+    },
+    {
+      "id": 593,
+      "url": "https://api.seerapi.com/v1/title/593",
+      "name": "终点亦是起点"
+    },
+    {
+      "id": 594,
+      "url": "https://api.seerapi.com/v1/title/594",
+      "name": "蝶舞朝暮"
     }
   ],
-  "hash": "17cf973b"
+  "hash": "83426bc2"
 }

@@ -84,6 +84,10 @@
       "url": "https://api.seerapi.com/v1/skill/19899"
     },
     {
+      "id": 29371,
+      "url": "https://api.seerapi.com/v1/skill/29371"
+    },
+    {
       "id": 30003,
       "url": "https://api.seerapi.com/v1/skill/30003"
     },
@@ -334,8 +338,12 @@
     {
       "id": 38342,
       "url": "https://api.seerapi.com/v1/skill/38342"
+    },
+    {
+      "id": 38387,
+      "url": "https://api.seerapi.com/v1/skill/38387"
     }
   ],
   "tag": [],
-  "hash": "9bfd52f3"
+  "hash": "6768bbe2"
 }

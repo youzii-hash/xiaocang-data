@@ -5,6 +5,7 @@
       "name": "冷艳巫影·魔琪",
       "resource_id": 1400257,
       "enemy_resource_id": null,
+      "card_price": null,
       "pet": {
         "id": 3720,
         "url": "https://api.seerapi.com/v1/pet/3720"
@@ -12,8 +13,16 @@
       "category": {
         "id": 3,
         "url": "https://api.seerapi.com/v1/pet_skin_category/3"
+      },
+      "series": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+      },
+      "sub_type": {
+        "id": 1003,
+        "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1003"
       }
     }
   },
-  "hash": "f93b1a76"
+  "hash": "5ae93721"
 }

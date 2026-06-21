@@ -3,6 +3,7 @@
   "name": "镇邪纳瑞·列奥尼达",
   "resource_id": 1400806,
   "enemy_resource_id": null,
+  "card_price": null,
   "pet": {
     "id": 4125,
     "url": "https://api.seerapi.com/v1/pet/4125"
@@ -11,5 +12,10 @@
     "id": 7,
     "url": "https://api.seerapi.com/v1/pet_skin_category/7"
   },
-  "hash": "aa52285d"
+  "series": {
+    "id": 14,
+    "url": "https://api.seerapi.com/v1/pet_skin_series/14"
+  },
+  "sub_type": null,
+  "hash": "323472c"
 }

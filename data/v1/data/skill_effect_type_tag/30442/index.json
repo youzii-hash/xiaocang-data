@@ -481,7 +481,15 @@
     {
       "id": 2471,
       "url": "https://api.seerapi.com/v1/skill_effect_type/2471"
+    },
+    {
+      "id": 2476,
+      "url": "https://api.seerapi.com/v1/skill_effect_type/2476"
+    },
+    {
+      "id": 2498,
+      "url": "https://api.seerapi.com/v1/skill_effect_type/2498"
     }
   ],
-  "hash": "14e89a87"
+  "hash": "335b04ca"
 }

@@ -70,8 +70,20 @@
     {
       "id": 38135,
       "url": "https://api.seerapi.com/v1/skill/38135"
+    },
+    {
+      "id": 38393,
+      "url": "https://api.seerapi.com/v1/skill/38393"
+    },
+    {
+      "id": 38411,
+      "url": "https://api.seerapi.com/v1/skill/38411"
+    },
+    {
+      "id": 38422,
+      "url": "https://api.seerapi.com/v1/skill/38422"
     }
   ],
   "tag": [],
-  "hash": "ac40bf4f"
+  "hash": "62c3bea3"
 }

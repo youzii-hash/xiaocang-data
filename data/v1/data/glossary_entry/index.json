@@ -1,5 +1,5 @@
 {
-  "count": 518,
+  "count": 529,
   "next": null,
   "previous": null,
   "first": null,
@@ -2594,7 +2594,62 @@
       "id": 518,
       "url": "https://api.seerapi.com/v1/glossary_entry/518",
       "name": "众数"
+    },
+    {
+      "id": 519,
+      "url": "https://api.seerapi.com/v1/glossary_entry/519",
+      "name": "九劫之痕"
+    },
+    {
+      "id": 520,
+      "url": "https://api.seerapi.com/v1/glossary_entry/520",
+      "name": "百炼之炎"
+    },
+    {
+      "id": 521,
+      "url": "https://api.seerapi.com/v1/glossary_entry/521",
+      "name": "组"
+    },
+    {
+      "id": 522,
+      "url": "https://api.seerapi.com/v1/glossary_entry/522",
+      "name": "雷解"
+    },
+    {
+      "id": 523,
+      "url": "https://api.seerapi.com/v1/glossary_entry/523",
+      "name": "黄金万象"
+    },
+    {
+      "id": 524,
+      "url": "https://api.seerapi.com/v1/glossary_entry/524",
+      "name": "骑士决斗"
+    },
+    {
+      "id": 525,
+      "url": "https://api.seerapi.com/v1/glossary_entry/525",
+      "name": "骑士决斗·落败"
+    },
+    {
+      "id": 526,
+      "url": "https://api.seerapi.com/v1/glossary_entry/526",
+      "name": "渐冻"
+    },
+    {
+      "id": 527,
+      "url": "https://api.seerapi.com/v1/glossary_entry/527",
+      "name": "渐烬"
+    },
+    {
+      "id": 528,
+      "url": "https://api.seerapi.com/v1/glossary_entry/528",
+      "name": "天烬海"
+    },
+    {
+      "id": 529,
+      "url": "https://api.seerapi.com/v1/glossary_entry/529",
+      "name": "事象观测"
     }
   ],
-  "hash": "c95edc5b"
+  "hash": "aa0a9b82"
 }

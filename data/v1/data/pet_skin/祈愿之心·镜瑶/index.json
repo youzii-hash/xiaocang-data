@@ -5,6 +5,7 @@
       "name": "祈愿之心·镜瑶",
       "resource_id": 1400287,
       "enemy_resource_id": null,
+      "card_price": null,
       "pet": {
         "id": 3808,
         "url": "https://api.seerapi.com/v1/pet/3808"
@@ -12,8 +13,16 @@
       "category": {
         "id": 3,
         "url": "https://api.seerapi.com/v1/pet_skin_category/3"
+      },
+      "series": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+      },
+      "sub_type": {
+        "id": 1004,
+        "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1004"
       }
     }
   },
-  "hash": "d49e7ec3"
+  "hash": "36912818"
 }

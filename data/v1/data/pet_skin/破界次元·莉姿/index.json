@@ -5,6 +5,7 @@
       "name": "破界次元·莉姿",
       "resource_id": 1400385,
       "enemy_resource_id": null,
+      "card_price": null,
       "pet": {
         "id": 4209,
         "url": "https://api.seerapi.com/v1/pet/4209"
@@ -12,8 +13,16 @@
       "category": {
         "id": 3,
         "url": "https://api.seerapi.com/v1/pet_skin_category/3"
+      },
+      "series": {
+        "id": 1,
+        "url": "https://api.seerapi.com/v1/pet_skin_series/1"
+      },
+      "sub_type": {
+        "id": 1006,
+        "url": "https://api.seerapi.com/v1/pet_skin_series_sub_type/1006"
       }
     }
   },
-  "hash": "4023c704"
+  "hash": "bd97aee"
 }
